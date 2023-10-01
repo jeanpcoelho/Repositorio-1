@@ -1,2 +1,6 @@
 # Repositorio-1
- primeiro repositorio
+Nome: Jean Pereira Coelho
+
+Nível de Conhecimento
+HTML:Basico
+CSS:Basico
